@@ -16,9 +16,9 @@ echo $pu"•"$bi"────────────────────"$p
 echo $me"["$pu" Author :"$me"]"$bi" DimasPnr"
 echo $me"["$pu" WhatsApp :"$me"]"$bi" 083873098030"
 echo $me"["$pu" THANKS TO :"$me"]"$bi"[Allah Swt] [Deray ] [Faiz]"
-echo $i"|"$pu" 1"$i" |"$cy"DarkFly"$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$pu" 1"$i" |"$cy"DarkFly"$i"|"
 echo
-echo $me"┌==="$bi"["$i"ARTHURNET"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"R.Diz"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
