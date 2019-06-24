@@ -1,4 +1,4 @@
-Meme#usr/bin/bash
+#usr/bin/bash
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
@@ -16,11 +16,11 @@ echo $pu"•"$bi"────────────────────"$p
 echo $me"["$pu" Author :"$me"]"$bi" DimasPnr"
 echo $me"["$pu" WhatsApp :"$me"]"$bi" 083873098030"
 echo $me"["$pu" THANKS TO :"$me"]"$bi"[Allah Swt] [Deray ] [Faiz]"
-echo $i"|"$pu" 1"$i" |"$cy"         "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$pu" 1"$i" |"$cy"DarkFly"$i"|"$i"    |"$cy" B"$i" |"
 echo
-$me"┌==="$bi"["$i"ARTHURNET"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"ARTHURNET"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
-read -p"└──# "
+read -p"└──# " pil
 
 if [ $pil = 1 ]
 then
