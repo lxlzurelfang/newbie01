@@ -143,7 +143,8 @@ echo $bi"["$cy"R.Diz"$bi"]"$bi"["$cy"Pilih Nomornya"$bi"]"
 echo $cy"╔"
 read -p"╚══>>" pil
 
-if [ $pil = 1 ]                                                         
+if [ $pil = 1 ]   
+then                                                      
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -154,6 +155,7 @@ DarkFly
 fi
 
 if [ $pil = 2 ]
+then
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -163,6 +165,7 @@ python2 SETAN.py
 fi
 
 if [ $pil = 3 ]
+then
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -173,6 +176,7 @@ python2 darkontol-v7.py
 fi
 
 if [ $pil = 4 ]
+then 
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -182,6 +186,7 @@ sh virtex.sh
 fi
 
 if [ $pil = 5 ]
+then
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -191,6 +196,7 @@ python2 MBF.py
 fi
 
 if [ $pil = 6 ]
+then
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -200,6 +206,7 @@ sh install.sh
 fi
 
 if [ $pil = 7 ]
+then
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -209,6 +216,7 @@ sh BAJINGAN.sh
 fi
 
 if [ $pil = 8 ]
+then
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
@@ -218,6 +226,7 @@ sh shellphish.sh
 fi
 
 if [ $pil = 9 ]
+then 
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
