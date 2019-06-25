@@ -228,7 +228,7 @@ fi
 
 if [ $pil = 10 ]
 then
-clear\
+clear
 apt update && apt upgrade
 apt install python2
 apt install python2                                                                     
