@@ -135,7 +135,7 @@ echo $me"|"$pu"4"$me"|"$cy"["$cy"VIRTEX""]"
 echo $me"|"$pu"5"$me"|"$cy"["$cy"Hack Facebook Massal""]"
 echo $me"|"$pu"6"$me"|"$cy"["$cy"WhoAreYou""]"$cy"("$pu"LACAK LOKASI DENGAN LINK"$cy")"
 echo $me"|"$pu"7"$me"|"$cy"["$cy"BAJINGANv6""]"
-echo $me"|"$pu"8"$me"|"$cy"["$cy"ShellPhish""]"$cy"("$pu"MEMBUAT PHISING"$CY")
+echo $me"|"$pu"8"$me"|"$cy"["$cy"ShellPhish""]"$cy"("$pu"MEMBUAT PHISING"$CY")"
 echo $me"|"$pu"9"$me"|"$cy"["$cy"STARKV2""]"
 echo $me"|"$pu"10"$me"|"$cy"["$cy"INSTALL BAHAN BAHAN NJING""]"
 echo $me"|"$pu"0"$me"|"$cy"["$cy"KELUAR""]"
