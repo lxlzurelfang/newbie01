@@ -231,12 +231,14 @@ then
 clear\
 apt update && apt upgrade
 apt install python2
-apt install python2                                                                     pip2 install urllib3 chardet certifi idna requests
+apt install python2                                                                     
+pip2 install urllib3 chardet certifi idna requests
 pkg install git
 pip2 install mechanize
 pkg install curl
 pkg install ruby
-pkg install gem                                                                         gem install lolcat
+pkg install gem                                                                         
+gem install lolcat
 pkg install git
 pkg install php
 pkg install ruby cowsay toilet figlet
@@ -247,7 +249,8 @@ fi
 
 if [ $pil = 0 ]
 then
-echo $me"TERIMA KASIH TELAH MENGGUNAKAN TOOL INI"                                       sleep 1
+echo $me"TERIMA KASIH TELAH MENGGUNAKAN TOOL INI"                                       
+sleep 1
 echo $me"Author:R.Diz"
 exit
 fi
