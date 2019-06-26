@@ -169,7 +169,7 @@ then
 clear
 figlet -f slant "N G O P I"|lolcat
 sleep 1
-git clone git clone https://github.com/LOoLzeC/reverse_engineering
+git clone https://github.com/LOoLzeC/reverse_engineering
 cd reverse_engineering
 cd darkontol-v7
 python2 darkontol-v7.py
